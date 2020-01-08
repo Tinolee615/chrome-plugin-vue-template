@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b486640-578d-4615-915d-79c71d1f12c6" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/js/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/userLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/js/userLogin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/chaqzModule/chaqz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/chaqzModule/chaqz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/directTaobao/tbDirect1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/directTaobao/tbDirect1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/sycmModule/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/sycmModule/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/taobao/tbSearchDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/taobao/tbSearchDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/tbTrade/tbTrade.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/tbTrade/tbTrade.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/vueTest/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/vueTest/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/vueTest/components/tables.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/vueTest/components/tables.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/vueTest/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/vueTest/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/plugins/vueTest/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="168" column="28" selection-start-line="168" selection-start-column="24" selection-end-line="168" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/plugins/directTaobao/tbDirect.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-224">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#91#230#0" />
+                <element signature="n#!!block;n#interceptRequest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/plugins/directTaobao/tbDirect1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2887">
+              <caret line="567" lean-forward="true" selection-start-line="567" selection-end-line="567" />
+              <folding>
+                <element signature="e#0#86#0" expanded="true" />
+                <element signature="e#1115#3383#0" />
+                <element signature="e#1125#1177#0" />
+                <element signature="e#1732#2046#0" />
+                <element signature="e#1883#2036#0" />
+                <element signature="n#!!block;n#showBtn#0" />
+                <element signature="n#!!block;n#get_ztc_userInfo#0" />
+                <element signature="n#!!block;n#getHttpRquest#0" />
+                <element signature="n#!!block;n#getHttpPromise#0" />
+                <element signature="n#!!block;n#superPopup#0" />
+                <element signature="e#14157#14261#0" />
+                <element signature="e#15809#16278#0" />
+                <element signature="n#!!block;n#getplanList#0" />
+                <element signature="n#!!block;n#addPlanListDom#0" />
+                <element signature="n#!!block;n#openSuperMask#0" />
+                <element signature="n#!!block;n#getplanShop#0" />
+                <element signature="n#!!block;n#addPlanShopDom#0" />
+                <element signature="n#!!block;n#add_keyWordDom#0" />
+                <element signature="n#!!block;n#initkeyWordData#0" />
+                <element signature="n#!!block;n#getplanShop_keyWord#0" />
+                <element signature="n#!!block;n#add_shop_keyWordDom#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="117" column="8" selection-start-line="117" selection-start-column="8" selection-end-line="117" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/js/init.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="348" selection-start-line="348" selection-end-line="352" selection-end-column="3" />
+              <folding>
+                <element signature="e#21#78#0" expanded="true" />
+                <element signature="n#!!block;n#saveSiteInfo#0" />
+                <element signature="n#!!block;n#newEstsDom#0" />
+                <element signature="n#!!block;n#newlever#0" />
+                <element signature="e#10633#10740#0" />
+                <element signature="n#!!block;n#checkLoginCode#0" />
+                <element signature="n#!!block;n#userInfoRes#0" />
+                <element signature="n#!!block;n#setIntRefreshToken#0" />
+                <element signature="n#!!block;n#getSearchPara#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/plugins/vueTest/components/layOut.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/js/userLogin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="106" column="39" lean-forward="true" selection-start-line="106" selection-start-column="39" selection-end-line="106" selection-end-column="39" />
+              <folding>
+                <element signature="n#!!block;n#LogOut#0" />
+                <element signature="n#!!block;n#changeLoginStatus#0" />
+                <element signature="n#!!block;n#isNewVersion#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/plugins/taobao/tbSearchDetail.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="154" selection-start-line="154" selection-end-line="154" selection-end-column="18" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/plugins/tbTrade/tbTrade.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="596">
+              <caret line="237" selection-start-line="237" selection-end-line="237" />
+              <folding>
+                <element signature="e#12194#12718#0" />
+                <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+                <element signature="e#12794#12823#0" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/plugins/vueTest/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="65" column="11" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+              <folding>
+                <element signature="e#99#139#0" expanded="true" />
+                <element signature="e#770#1716#0" />
+                <element signature="e#526#1069#0" />
+                <element signature="e#2746#2787#0" />
+                <element signature="e#4390#5763#0" />
+                <element signature="e#5849#6318#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>daterangepicker</find>
+      <find>datePicker</find>
+      <find>t-datepicker</find>
+      <find>总收藏</find>
+      <find>clear</find>
+      <find>c-datepicker-date-editor  J-datepicker-range-day mt10</find>
+      <find>dateRange0</find>
+      <find>DateMinus</find>
+      <find>add_keyWordDom</find>
+      <find>console.log</find>
+      <find>textLoading</find>
+      <find>add_shop_keyWordDom</find>
+      <find>bootstrap</find>
+      <find>checkLoginCode</find>
+      <find>setIntRefreshToken</find>
+      <find>isLogin</find>
+      <find>cqz_cqz_isLogin</find>
+      <find>DOMNodeInserted</find>
+      <find>userInfoRes</find>
+      <find>changeLoginStatus</find>
+      <find>superPopup</find>
+      <find>window.window.cqz_isLogin</find>
+      <find>cqz_isLogin</find>
+      <find>tbSearchDetail</find>
+      <find>window.cqz_isLogin</find>
+      <find>goPage</find>
+      <find>superOver</find>
+      <find>anyDom</find>
+      <find>Notification</find>
+      <find>popTip</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>../../assets/js/config</replace>
+      <replace>../../common/constState</replace>
+      <replace>version</replace>
+      <replace>${BASE_URL}</replace>
+      <replace>fzName</replace>
+      <replace>fzType</replace>
+      <replace>降妖师</replace>
+      <replace>/api/v2/user/user/oauth2/refresh_token</replace>
+      <replace>查黑号</replace>
+      <replace>${backgroundPage.webSiteInfo.BASE_URL}</replace>
+      <replace>sycmContent</replace>
+      <replace>newPage&gt;getData.allNum</replace>
+      <replace>style.css</replace>
+      <replace>/java/api/v2/user/user/oauth2/refresh_token</replace>
+      <replace />
+      <replace>s1 = s1.replace(/-/g,'');</replace>
+      <replace>s2 = s2.replace(/-/g,'');</replace>
+      <replace>no-repeat 10px center</replace>
+      <replace>newWebSiteInfos</replace>
+      <replace>newWebSiteInfo</replace>
+      <replace>body</replace>
+      <replace>isCqzLogin</replace>
+      <replace>cqz_super_table</replace>
+      <replace>toFixed</replace>
+      <replace>full.</replace>
+      <replace>./lay/modules</replace>
+      <replace>https://file.cdn.chaquanzhong.com/layui/lay/modules/</replace>
+      <replace>window.cqz_isLogin</replace>
+      <replace>cqz_isLogin</replace>
+      <replace>isLogin</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\ssh\插件项目\src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/plugins/chaqzModule/chaqz_web.js" />
+        <option value="$PROJECT_DIR$/src/plugins/directTaobao/chaqz_direct.js" />
+        <option value="$PROJECT_DIR$/src/plugins/popup/chaqz_popup.js" />
+        <option value="$PROJECT_DIR$/src/plugins/taobao/chaqz_tbSearch.js" />
+        <option value="$PROJECT_DIR$/src/plugins/tbTrade/chaqz_trade.js" />
+        <option value="$PROJECT_DIR$/src/plugins/background/background.js" />
+        <option value="$PROJECT_DIR$/../demo/server1.js" />
+        <option value="$PROJECT_DIR$/src/plugins/popup/popup.js" />
+        <option value="$PROJECT_DIR$/src/common/js/adJson.json" />
+        <option value="$PROJECT_DIR$/server1.js" />
+        <option value="$PROJECT_DIR$/src/plugins/background/chaqz_background.js" />
+        <option value="$PROJECT_DIR$/dist/js/init.js" />
+        <option value="$PROJECT_DIR$/src/plugins/chaqzModule/chaqz.js" />
+        <option value="$PROJECT_DIR$/src/plugins/background/chaqz_background1.js" />
+        <option value="$PROJECT_DIR$/src/plugins/sycmModule/market.js" />
+        <option value="$PROJECT_DIR$/dist/js/chaqzContent.js" />
+        <option value="$PROJECT_DIR$/dist/js/sycmCommons.js" />
+        <option value="$PROJECT_DIR$/dist/js/sycmContent.js" />
+        <option value="$PROJECT_DIR$/dist/js/sycmContent2.js" />
+        <option value="$PROJECT_DIR$/dist/js/tbDirect.js" />
+        <option value="$PROJECT_DIR$/dist/js/tbSearchDetail.js" />
+        <option value="$PROJECT_DIR$/dist/js/tbTrade.js" />
+        <option value="$PROJECT_DIR$/src/plugins/directTaobao/tbDirect.js" />
+        <option value="$PROJECT_DIR$/src/plugins/sycmModule/chaqz_sycm.js" />
+        <option value="$PROJECT_DIR$/src/common/config.js" />
+        <option value="$PROJECT_DIR$/src/common/js/commonFuns.js" />
+        <option value="$PROJECT_DIR$/src/common/js/promptClass.js" />
+        <option value="$PROJECT_DIR$/src/plugins/sycmModule/index.js" />
+        <option value="$PROJECT_DIR$/src/plugins/sycmModule/chaqz_sycm1.js" />
+        <option value="$PROJECT_DIR$/src/plugins/sycmModule/monitor.js" />
+        <option value="$PROJECT_DIR$/src/static/demo.html" />
+        <option value="$PROJECT_DIR$/src/plugins/sycmModule/variableAnaly.js" />
+        <option value="$PROJECT_DIR$/src/static/layui/layui.js" />
+        <option value="$PROJECT_DIR$/src/static/manifest.json" />
+        <option value="$PROJECT_DIR$/src/static/lib/layui/layui.js" />
+        <option value="$PROJECT_DIR$/dist/manifest.json" />
+        <option value="$PROJECT_DIR$/src/static/popup.html" />
+        <option value="$PROJECT_DIR$/src/static/css/themes/t-datepicker-blue.css" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/src/common/css/sycm.css" />
+        <option value="$PROJECT_DIR$/src/plugins/directTaobao/tbDirect2.js" />
+        <option value="$PROJECT_DIR$/src/static/js/datepicker.en.js" />
+        <option value="$PROJECT_DIR$/src/plugins/vueTest/components/tables.vue" />
+        <option value="$PROJECT_DIR$/src/plugins/vueTest/index.js" />
+        <option value="$PROJECT_DIR$/src/common/js/init.js" />
+        <option value="$PROJECT_DIR$/src/common/js/userLogin.js" />
+        <option value="$PROJECT_DIR$/src/plugins/taobao/tbSearchDetail.js" />
+        <option value="$PROJECT_DIR$/src/plugins/tbTrade/tbTrade.js" />
+        <option value="$PROJECT_DIR$/src/plugins/directTaobao/tbDirect1.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/plugins/vueTest/App.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="238" />
+    <option name="y" value="281" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <sortByType ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="插件-直通车" type="b2602c69:ProjectViewProjectNode" />
+              <item name="插件-直通车" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="插件-直通车" type="b2602c69:ProjectViewProjectNode" />
+              <item name="插件-直通车" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="插件-直通车" type="b2602c69:ProjectViewProjectNode" />
+              <item name="插件-直通车" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="插件-直通车" type="b2602c69:ProjectViewProjectNode" />
+              <item name="插件-直通车" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="插件-直通车" type="b2602c69:ProjectViewProjectNode" />
+              <item name="插件-直通车" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="插件-直通车" type="b2602c69:ProjectViewProjectNode" />
+              <item name="插件-直通车" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="directTaobao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="插件-直通车" type="b2602c69:ProjectViewProjectNode" />
+              <item name="插件-直通车" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="taobao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="插件-直通车" type="b2602c69:ProjectViewProjectNode" />
+              <item name="插件-直通车" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="vueTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/plugins/directTaobao" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ssh\插件--赛马优化\src\plugins\directTaobao" />
+      <recent name="E:\ssh\插件--赛马优化\src\static\css" />
+      <recent name="E:\ssh\插件--赛马优化\src\static\js" />
+      <recent name="E:\ssh\插件--赛马优化\src\static" />
+      <recent name="E:\ssh\插件--赛马优化\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ssh\插件--赛马优化\src\static\js" />
+      <recent name="E:\ssh\插件--赛马优化\src\static\lib" />
+      <recent name="E:\ssh\插件--赛马优化\src\static\css" />
+      <recent name="E:\ssh\插件--赛马优化\src\plugins\background" />
+      <recent name="E:\ssh\插件--赛马优化\src\common\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration name="config.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="config.js" working-dir="$PROJECT_DIR$/src/common">
+      <method v="2" />
+    </configuration>
+    <configuration name="init.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="init.js" working-dir="$PROJECT_DIR$/src/common/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="jm.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="jm.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="server1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="server1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+        <item itemvalue="Node.js.config.js" />
+        <item itemvalue="Node.js.init.js" />
+        <item itemvalue="Node.js.server1.js" />
+        <item itemvalue="Node.js.jm.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b486640-578d-4615-915d-79c71d1f12c6" name="默认的" comment="" />
+      <created>1565831415321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565831415321</updated>
+      <workItem from="1565831416461" duration="4865000" />
+      <workItem from="1565947443150" duration="1714000" />
+      <workItem from="1566177085425" duration="6190000" />
+      <workItem from="1566263323255" duration="2735000" />
+      <workItem from="1566364254077" duration="621000" />
+      <workItem from="1566436114265" duration="652000" />
+      <workItem from="1566541205885" duration="15030000" />
+      <workItem from="1566608514689" duration="22066000" />
+      <workItem from="1566781507331" duration="1650000" />
+      <workItem from="1566868389621" duration="777000" />
+      <workItem from="1566872830929" duration="24485000" />
+      <workItem from="1566954459338" duration="4692000" />
+      <workItem from="1566960559712" duration="25693000" />
+      <workItem from="1567041216072" duration="22956000" />
+      <workItem from="1567127295695" duration="1321000" />
+      <workItem from="1567129427031" duration="6333000" />
+      <workItem from="1567149963685" duration="5232000" />
+      <workItem from="1567575717755" duration="4233000" />
+      <workItem from="1567580290719" duration="18915000" />
+      <workItem from="1567645783605" duration="38030000" />
+      <workItem from="1567731797513" duration="14094000" />
+      <workItem from="1567818745906" duration="9126000" />
+      <workItem from="1567993725324" duration="20747000" />
+      <workItem from="1568077169179" duration="35257000" />
+      <workItem from="1568163867441" duration="15419000" />
+      <workItem from="1568187263306" duration="6769000" />
+      <workItem from="1568254873986" duration="1128000" />
+      <workItem from="1568269672186" duration="277000" />
+      <workItem from="1568279267228" duration="2095000" />
+      <workItem from="1569047611247" duration="6721000" />
+      <workItem from="1569203351276" duration="1562000" />
+      <workItem from="1569207794545" duration="8862000" />
+      <workItem from="1569228403547" duration="4076000" />
+      <workItem from="1569291166987" duration="260000" />
+      <workItem from="1569292093883" duration="1485000" />
+      <workItem from="1569396360408" duration="2259000" />
+      <workItem from="1569398734563" duration="5605000" />
+      <workItem from="1569460647084" duration="24243000" />
+      <workItem from="1569551612309" duration="12294000" />
+      <workItem from="1569723286558" duration="10562000" />
+      <workItem from="1569748748492" duration="3077000" />
+      <workItem from="1569806492578" duration="15145000" />
+      <workItem from="1569833077759" duration="3468000" />
+      <workItem from="1570411201156" duration="14495000" />
+      <workItem from="1570502641315" duration="6598000" />
+      <workItem from="1570583297545" duration="28168000" />
+      <workItem from="1570669600908" duration="21929000" />
+      <workItem from="1570756322755" duration="2267000" />
+      <workItem from="1570760202288" duration="15503000" />
+      <workItem from="1570842328427" duration="7429000" />
+      <workItem from="1571016591771" duration="18508000" />
+      <workItem from="1571103217056" duration="19891000" />
+      <workItem from="1571187862984" duration="11852000" />
+      <workItem from="1571277588311" duration="13861000" />
+      <workItem from="1571361425665" duration="12153000" />
+      <workItem from="1571395645323" duration="329000" />
+      <workItem from="1571620146364" duration="12980000" />
+      <workItem from="1571713113385" duration="10644000" />
+      <workItem from="1571735423217" duration="2866000" />
+      <workItem from="1571967512096" duration="17606000" />
+      <workItem from="1572052297724" duration="14744000" />
+      <workItem from="1572227596137" duration="19285000" />
+      <workItem from="1572312795971" duration="12164000" />
+      <workItem from="1572403650237" duration="5127000" />
+      <workItem from="1572499927091" duration="6041000" />
+      <workItem from="1572511508399" duration="1628000" />
+      <workItem from="1572611893381" duration="5555000" />
+      <workItem from="1572830042026" duration="16000000" />
+      <workItem from="1572916243023" duration="12978000" />
+      <workItem from="1573002842207" duration="25439000" />
+      <workItem from="1573090734040" duration="24309000" />
+      <workItem from="1573130009419" duration="2477000" />
+      <workItem from="1573176518172" duration="29947000" />
+      <workItem from="1573262049569" duration="4237000" />
+      <workItem from="1573280567137" duration="8674000" />
+      <workItem from="1573434439284" duration="22379000" />
+      <workItem from="1573520919790" duration="4041000" />
+      <workItem from="1573526756960" duration="11268000" />
+      <workItem from="1574056611991" duration="3101000" />
+      <workItem from="1574153089052" duration="2660000" />
+      <workItem from="1574214007585" duration="18513000" />
+      <workItem from="1574298700360" duration="16241000" />
+      <workItem from="1574385067316" duration="22948000" />
+      <workItem from="1574471508757" duration="21370000" />
+      <workItem from="1574503526179" duration="446000" />
+      <workItem from="1574646981651" duration="2107000" />
+      <workItem from="1574663545178" duration="2614000" />
+      <workItem from="1574754869666" duration="4110000" />
+      <workItem from="1574759425102" duration="9713000" />
+      <workItem from="1574769564210" duration="2589000" />
+      <workItem from="1574910166758" duration="1540000" />
+      <workItem from="1575266575389" duration="647000" />
+      <workItem from="1575623705232" duration="2410000" />
+      <workItem from="1575681153047" duration="7964000" />
+      <workItem from="1575854110932" duration="7081000" />
+      <workItem from="1575940272075" duration="27426000" />
+      <workItem from="1576026784853" duration="4299000" />
+      <workItem from="1576034501048" duration="23371000" />
+      <workItem from="1576113684425" duration="29595000" />
+      <workItem from="1576199688271" duration="20858000" />
+      <workItem from="1576459278579" duration="19403000" />
+      <workItem from="1576485968209" duration="13306000" />
+      <workItem from="1576545602150" duration="5669000" />
+      <workItem from="1577947404444" duration="5075000" />
+      <workItem from="1578014194495" duration="11188000" />
+      <workItem from="1578116202700" duration="2221000" />
+      <workItem from="1578120241710" duration="1436000" />
+      <workItem from="1578124898658" duration="6717000" />
+      <workItem from="1578273297360" duration="23233000" />
+      <workItem from="1578387608833" duration="1367000" />
+      <workItem from="1578390300133" duration="1300000" />
+      <workItem from="1578446062814" duration="7275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1185886000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.75579596" visible="true" weight="0.116204694" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" sideWeight="0.24420401" side_tool="true" visible="true" weight="0.16364606" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49733475" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52132195" side_tool="true" weight="0.31236443" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.47867805" visible="true" weight="0.28091106" />
+      <window_info anchor="bottom" id="找到" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="运行" order="13" weight="0.32936078" />
+      <window_info anchor="bottom" id="调试" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/plugins/sycmModule/monitor.js</url>
+          <line>474</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/plugins/vueTest/index.js</url>
+          <line>3</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/static/css/fixedColumns.dataTables.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="30" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/background/chaqz_background1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/layui-v2.5.5/layui-v2.5.5/layui/layui.all.js" />
+    <entry file="file://$PROJECT_DIR$/src/static/js/layui.all.js" />
+    <entry file="file://$PROJECT_DIR$/src/common/js/promptClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="295" selection-start-line="14" selection-start-column="286" selection-end-line="14" selection-end-column="295" />
+          <folding>
+            <element signature="n#!!block;n#textLoading#0" />
+            <element signature="n#!!block;n#popTipText#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/popup/popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="93" column="37" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/demo.html" />
+    <entry file="file://$PROJECT_DIR$/dist/layui/layui.js" />
+    <entry file="file://$PROJECT_DIR$/src/static/lib/layui/css/layui.css" />
+    <entry file="file://$PROJECT_DIR$/src/static/lib/layui/css/modules/laydate/default/laydate.css" />
+    <entry file="file://$PROJECT_DIR$/src/static/lib/layui/layui.all.js" />
+    <entry file="file://$PROJECT_DIR$/src/static/lib/layui/layui.js" />
+    <entry file="file://$PROJECT_DIR$/src/static/css/t-datepicker-main.css" />
+    <entry file="file://$PROJECT_DIR$/src/static/css/t-datepicker.min.css" />
+    <entry file="file://$PROJECT_DIR$/src/static/css/themes/t-datepicker-blue.css" />
+    <entry file="file://$PROJECT_DIR$/src/plugins/sycmModule/variableAnaly.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46175">
+          <caret line="1872" column="9" selection-start-line="1872" selection-start-column="9" selection-end-line="1872" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/js/commonFuns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20425">
+          <caret line="831" column="37" selection-start-line="831" selection-start-column="37" selection-end-line="831" selection-end-column="37" />
+          <folding>
+            <element signature="e#41#527#0" />
+            <element signature="e#153#201#0" />
+            <element signature="e#229#386#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/js/t-datepicker.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/plugins/sycmModule/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2750">
+          <caret line="772" column="9" selection-start-line="772" selection-start-column="9" selection-end-line="787" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+            <element signature="e#346#2842#0" />
+            <element signature="e#3074#25924#0" />
+            <element signature="e#3178#24756#0" />
+            <element signature="e#27825#32312#0" />
+            <element signature="e#32347#33345#0" />
+            <element signature="e#33383#35117#0" />
+            <element signature="e#35149#36597#0" />
+            <element signature="e#36965#37332#0" />
+            <element signature="e#37361#37861#0" />
+            <element signature="e#37920#38119#0" />
+            <element signature="e#38206#38366#0" />
+            <element signature="e#38605#43281#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/js/jquery.daterangepicker.js" />
+    <entry file="file://$PROJECT_DIR$/src/static/css/daterangepicker.css" />
+    <entry file="file://$PROJECT_DIR$/src/static/js/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/static/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/src/static/js/moment.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/js/daterangepicker.js" />
+    <entry file="file://$PROJECT_DIR$/dist/manifest.json" />
+    <entry file="file://$PROJECT_DIR$/src/plugins/directTaobao/tbDirect2.js" />
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="183" selection-start-line="183" selection-end-line="185" selection-end-column="44" />
+          <folding>
+            <element signature="e#398#2206#0" />
+            <element signature="e#2757#5726#0" />
+            <element signature="e#3061#3803#0" />
+            <element signature="e#3817#4184#0" />
+            <element signature="e#4227#4295#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/css/sycm.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29150">
+          <caret line="2535" column="17" selection-start-line="2535" selection-start-column="17" selection-end-line="2535" selection-end-column="17" />
+          <folding>
+            <element signature="e#15#158#0" />
+            <element signature="e#184#409#0" />
+            <element signature="e#441#462#0" />
+            <element signature="e#497#645#0" />
+            <element signature="e#688#737#0" />
+            <element signature="e#829#870#0" />
+            <element signature="e#966#1024#0" />
+            <element signature="e#1073#1099#0" />
+            <element signature="e#1136#1159#0" />
+            <element signature="e#1390#1507#0" />
+            <element signature="e#1539#1598#0" />
+            <element signature="e#1636#1657#0" />
+            <element signature="e#1696#1847#0" />
+            <element signature="e#1892#1959#0" />
+            <element signature="e#2647#2675#0" />
+            <element signature="e#2708#2797#0" />
+            <element signature="e#2831#3004#0" />
+            <element signature="e#3039#3163#0" />
+            <element signature="e#3198#3244#0" />
+            <element signature="e#3288#3336#0" />
+            <element signature="e#3441#3613#0" />
+            <element signature="e#3654#3704#0" />
+            <element signature="e#3742#3791#0" />
+            <element signature="e#3821#4071#0" />
+            <element signature="e#4119#4159#0" />
+            <element signature="e#4196#4222#0" />
+            <element signature="e#4271#4293#0" />
+            <element signature="e#4326#4420#0" />
+            <element signature="e#4452#4517#0" />
+            <element signature="e#4557#4623#0" />
+            <element signature="e#4662#4765#0" />
+            <element signature="e#4808#4852#0" />
+            <element signature="e#4897#5027#0" />
+            <element signature="e#5079#5120#0" />
+            <element signature="e#5170#5242#0" />
+            <element signature="e#5290#5664#0" />
+            <element signature="e#5716#5763#0" />
+            <element signature="e#5811#5880#0" />
+            <element signature="e#5930#6019#0" />
+            <element signature="e#6073#6180#0" />
+            <element signature="e#6229#6399#0" />
+            <element signature="e#6459#6484#0" />
+            <element signature="e#6535#6602#0" />
+            <element signature="e#6655#6825#0" />
+            <element signature="e#6884#6944#0" />
+            <element signature="e#6958#7069#0" />
+            <element signature="e#7144#7191#0" />
+            <element signature="e#7216#7424#0" />
+            <element signature="e#7454#7530#0" />
+            <element signature="e#7616#7637#0" />
+            <element signature="e#7661#7681#0" />
+            <element signature="e#7701#7751#0" />
+            <element signature="e#7765#7994#0" />
+            <element signature="e#8027#8070#0" />
+            <element signature="e#8114#8321#0" />
+            <element signature="e#8412#8471#0" />
+            <element signature="e#8515#8557#0" />
+            <element signature="e#8600#8627#0" />
+            <element signature="e#8678#8723#0" />
+            <element signature="e#8734#9073#0" />
+            <element signature="e#9104#9250#0" />
+            <element signature="e#9280#9546#0" />
+            <element signature="e#9583#9689#0" />
+            <element signature="e#9727#9977#0" />
+            <element signature="e#10014#10065#0" />
+            <element signature="e#10101#10215#0" />
+            <element signature="e#10270#10310#0" />
+            <element signature="e#10350#10378#0" />
+            <element signature="e#10423#10610#0" />
+            <element signature="e#10677#10704#0" />
+            <element signature="e#10751#10778#0" />
+            <element signature="e#10826#10923#0" />
+            <element signature="e#10963#11027#0" />
+            <element signature="e#11074#11133#0" />
+            <element signature="e#11183#11305#0" />
+            <element signature="e#11350#11394#0" />
+            <element signature="e#11450#11476#0" />
+            <element signature="e#11512#11551#0" />
+            <element signature="e#11575#11684#0" />
+            <element signature="e#11712#11756#0" />
+            <element signature="e#11789#11809#0" />
+            <element signature="e#11838#11962#0" />
+            <element signature="e#12002#12266#0" />
+            <element signature="e#12303#12670#0" />
+            <element signature="e#12703#12855#0" />
+            <element signature="e#12874#12958#0" />
+            <element signature="e#13022#13067#0" />
+            <element signature="e#13102#13123#0" />
+            <element signature="e#13165#13213#0" />
+            <element signature="e#13249#13302#0" />
+            <element signature="e#13345#13368#0" />
+            <element signature="e#13405#13428#0" />
+            <element signature="e#13466#13489#0" />
+            <element signature="e#13524#13633#0" />
+            <element signature="e#13677#13902#0" />
+            <element signature="e#13935#14018#0" />
+            <element signature="e#14058#14086#0" />
+            <element signature="e#14122#14160#0" />
+            <element signature="e#14203#14223#0" />
+            <element signature="e#14225#14663#0" />
+            <element signature="e#14251#14324#0" />
+            <element signature="e#14334#14407#0" />
+            <element signature="e#14417#14494#0" />
+            <element signature="e#14504#14577#0" />
+            <element signature="e#14588#14661#0" />
+            <element signature="e#14702#14724#0" />
+            <element signature="e#14760#14828#0" />
+            <element signature="e#14867#14927#0" />
+            <element signature="e#14961#15074#0" />
+            <element signature="e#15109#15137#0" />
+            <element signature="e#15172#15224#0" />
+            <element signature="e#15257#15284#0" />
+            <element signature="e#15320#15343#0" />
+            <element signature="e#15377#15507#0" />
+            <element signature="e#15537#15605#0" />
+            <element signature="e#15641#15662#0" />
+            <element signature="e#15684#15787#0" />
+            <element signature="e#15839#15876#0" />
+            <element signature="e#15909#15976#0" />
+            <element signature="e#16011#16052#0" />
+            <element signature="e#16089#16115#0" />
+            <element signature="e#16152#16216#0" />
+            <element signature="e#16260#16328#0" />
+            <element signature="e#16366#16385#0" />
+            <element signature="e#16426#16611#0" />
+            <element signature="e#16656#16683#0" />
+            <element signature="e#16727#16777#0" />
+            <element signature="e#16819#16905#0" />
+            <element signature="e#16959#16999#0" />
+            <element signature="e#17038#17126#0" />
+            <element signature="e#17154#17196#0" />
+            <element signature="e#17227#17554#0" />
+            <element signature="e#17604#17678#0" />
+            <element signature="e#17718#17762#0" />
+            <element signature="e#17797#17853#0" />
+            <element signature="e#17888#17933#0" />
+            <element signature="e#17968#17988#0" />
+            <element signature="e#18020#18056#0" />
+            <element signature="e#18093#18119#0" />
+            <element signature="e#18157#18253#0" />
+            <element signature="e#18297#18419#0" />
+            <element signature="e#18464#18548#0" />
+            <element signature="e#18581#18697#0" />
+            <element signature="e#18736#18764#0" />
+            <element signature="e#18847#18964#0" />
+            <element signature="e#19005#19117#0" />
+            <element signature="e#19150#19414#0" />
+            <element signature="e#19442#19548#0" />
+            <element signature="e#19584#19651#0" />
+            <element signature="e#19685#19780#0" />
+            <element signature="e#19821#19929#0" />
+            <element signature="e#19960#20086#0" />
+            <element signature="e#20123#20244#0" />
+            <element signature="e#20285#20589#0" />
+            <element signature="e#20647#20686#0" />
+            <element signature="e#20729#20833#0" />
+            <element signature="e#20863#20933#0" />
+            <element signature="e#20965#21055#0" />
+            <element signature="e#21070#21182#0" />
+            <element signature="e#21208#21323#0" />
+            <element signature="e#21355#21378#0" />
+            <element signature="e#21420#21503#0" />
+            <element signature="e#21548#21726#0" />
+            <element signature="e#21770#21820#0" />
+            <element signature="e#21860#21882#0" />
+            <element signature="e#21916#22002#0" />
+            <element signature="e#22058#22087#0" />
+            <element signature="e#22149#22180#0" />
+            <element signature="e#22235#22346#0" />
+            <element signature="e#22506#22581#0" />
+            <element signature="e#22691#22761#0" />
+            <element signature="e#22787#22912#0" />
+            <element signature="e#22933#22971#0" />
+            <element signature="e#23001#23039#0" />
+            <element signature="e#23071#23119#0" />
+            <element signature="e#23130#23259#0" />
+            <element signature="e#23311#23615#0" />
+            <element signature="e#23645#23707#0" />
+            <element signature="e#23721#23794#0" />
+            <element signature="e#23808#23881#0" />
+            <element signature="e#23892#23920#0" />
+            <element signature="e#23931#23960#0" />
+            <element signature="e#23971#24003#0" />
+            <element signature="e#24014#24045#0" />
+            <element signature="e#24068#24135#0" />
+            <element signature="e#24158#24225#0" />
+            <element signature="e#24248#24315#0" />
+            <element signature="e#24338#24405#0" />
+            <element signature="e#24428#24495#0" />
+            <element signature="e#24518#24585#0" />
+            <element signature="e#24608#24675#0" />
+            <element signature="e#24698#24765#0" />
+            <element signature="e#24788#24855#0" />
+            <element signature="e#24878#24945#0" />
+            <element signature="e#24968#25035#0" />
+            <element signature="e#25037#25199#0" />
+            <element signature="e#25097#25142#0" />
+            <element signature="e#25152#25197#0" />
+            <element signature="e#25201#25419#0" />
+            <element signature="e#25253#25330#0" />
+            <element signature="e#25340#25417#0" />
+            <element signature="e#25453#25670#0" />
+            <element signature="e#25691#25858#0" />
+            <element signature="e#25885#25915#0" />
+            <element signature="e#25923#26191#0" />
+            <element signature="e#26193#26313#0" />
+            <element signature="e#26218#26258#0" />
+            <element signature="e#26269#26311#0" />
+            <element signature="e#26315#26459#0" />
+            <element signature="e#26348#26396#0" />
+            <element signature="e#26407#26457#0" />
+            <element signature="e#26487#26514#0" />
+            <element signature="e#26535#26555#0" />
+            <element signature="e#26568#26785#0" />
+            <element signature="e#26809#26899#0" />
+            <element signature="e#26923#27013#0" />
+            <element signature="e#27043#27131#0" />
+            <element signature="e#27160#27221#0" />
+            <element signature="e#27248#27305#0" />
+            <element signature="e#27329#27383#0" />
+            <element signature="e#27410#27462#0" />
+            <element signature="e#27485#27538#0" />
+            <element signature="e#27565#27622#0" />
+            <element signature="e#27645#27733#0" />
+            <element signature="e#27753#27868#0" />
+            <element signature="e#27898#27943#0" />
+            <element signature="e#27965#27987#0" />
+            <element signature="e#28020#28120#0" />
+            <element signature="e#28147#28200#0" />
+            <element signature="e#28230#28252#0" />
+            <element signature="e#28280#28305#0" />
+            <element signature="e#28339#28410#0" />
+            <element signature="e#28459#28483#0" />
+            <element signature="e#28524#28820#0" />
+            <element signature="e#28848#29073#0" />
+            <element signature="e#29109#29371#0" />
+            <element signature="e#29401#29667#0" />
+            <element signature="e#29704#29965#0" />
+            <element signature="e#29986#30226#0" />
+            <element signature="e#30283#30304#0" />
+            <element signature="e#30361#30382#0" />
+            <element signature="e#30439#30460#0" />
+            <element signature="e#30523#30546#0" />
+            <element signature="e#30598#30621#0" />
+            <element signature="e#30661#30683#0" />
+            <element signature="e#30710#30830#0" />
+            <element signature="e#30860#30914#0" />
+            <element signature="e#30959#30987#0" />
+            <element signature="e#31021#31144#0" />
+            <element signature="e#31292#31313#0" />
+            <element signature="e#31354#31407#0" />
+            <element signature="e#31446#31488#0" />
+            <element signature="e#31531#31580#0" />
+            <element signature="e#31594#31807#0" />
+            <element signature="e#31834#31920#0" />
+            <element signature="e#31941#31980#0" />
+            <element signature="e#32024#32046#0" />
+            <element signature="e#32047#32134#0" />
+            <element signature="e#32212#32239#0" />
+            <element signature="e#32258#32382#0" />
+            <element signature="e#32412#32516#0" />
+            <element signature="e#32545#32569#0" />
+            <element signature="e#32598#32620#0" />
+            <element signature="e#32644#32670#0" />
+            <element signature="e#32769#32845#0" />
+            <element signature="e#32881#32975#0" />
+            <element signature="e#33069#33091#0" />
+            <element signature="e#33122#33167#0" />
+            <element signature="e#33191#33237#0" />
+            <element signature="e#33275#33295#0" />
+            <element signature="e#33325#33373#0" />
+            <element signature="e#33415#33629#0" />
+            <element signature="e#33679#33940#0" />
+            <element signature="e#33968#33990#0" />
+            <element signature="e#34023#34117#0" />
+            <element signature="e#34148#34193#0" />
+            <element signature="e#34223#34283#0" />
+            <element signature="e#34319#34476#0" />
+            <element signature="e#34516#34536#0" />
+            <element signature="e#34573#34613#0" />
+            <element signature="e#34647#34670#0" />
+            <element signature="e#34709#34728#0" />
+            <element signature="e#34776#34824#0" />
+            <element signature="e#34859#34908#0" />
+            <element signature="e#34954#34977#0" />
+            <element signature="e#35016#35282#0" />
+            <element signature="e#35095#35154#0" />
+            <element signature="e#35329#35592#0" />
+            <element signature="e#35629#35686#0" />
+            <element signature="e#35715#35804#0" />
+            <element signature="e#35837#35861#0" />
+            <element signature="e#35889#35930#0" />
+            <element signature="e#35968#36051#0" />
+            <element signature="e#36104#36313#0" />
+            <element signature="e#36359#36617#0" />
+            <element signature="e#36659#36708#0" />
+            <element signature="e#36757#36914#0" />
+            <element signature="e#36962#37126#0" />
+            <element signature="e#37189#37456#0" />
+            <element signature="e#37514#37781#0" />
+            <element signature="e#37838#38104#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/css/datepicker.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/js/datepicker.all.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/js/datepicker.en.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/vueTest/components/tables.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#el-table#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/sycmModule/chaqz_sycm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/sycmModule/monitor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126875">
+          <caret line="5112" column="37" selection-start-line="5112" selection-start-column="37" selection-end-line="5112" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/postcss.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/sycmModule/market.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4538">
+          <caret line="530" column="33" selection-start-line="530" selection-start-column="33" selection-end-line="530" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/directTaobao/tbDirect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#91#230#0" />
+            <element signature="n#!!block;n#interceptRequest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="16512" column="10" selection-start-line="16512" selection-start-column="10" selection-end-line="16512" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/taobao/tbSearchDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="154" selection-start-line="154" selection-end-line="154" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/js/userLogin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="106" column="39" lean-forward="true" selection-start-line="106" selection-start-column="39" selection-end-line="106" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!block;n#LogOut#0" />
+            <element signature="n#!!block;n#changeLoginStatus#0" />
+            <element signature="n#!!block;n#isNewVersion#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/directTaobao/tbDirect1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2887">
+          <caret line="567" lean-forward="true" selection-start-line="567" selection-end-line="567" />
+          <folding>
+            <element signature="e#0#86#0" expanded="true" />
+            <element signature="e#1115#3383#0" />
+            <element signature="e#1125#1177#0" />
+            <element signature="e#1732#2046#0" />
+            <element signature="e#1883#2036#0" />
+            <element signature="n#!!block;n#showBtn#0" />
+            <element signature="n#!!block;n#get_ztc_userInfo#0" />
+            <element signature="n#!!block;n#getHttpRquest#0" />
+            <element signature="n#!!block;n#getHttpPromise#0" />
+            <element signature="n#!!block;n#superPopup#0" />
+            <element signature="e#14157#14261#0" />
+            <element signature="e#15809#16278#0" />
+            <element signature="n#!!block;n#getplanList#0" />
+            <element signature="n#!!block;n#addPlanListDom#0" />
+            <element signature="n#!!block;n#openSuperMask#0" />
+            <element signature="n#!!block;n#getplanShop#0" />
+            <element signature="n#!!block;n#addPlanShopDom#0" />
+            <element signature="n#!!block;n#add_keyWordDom#0" />
+            <element signature="n#!!block;n#initkeyWordData#0" />
+            <element signature="n#!!block;n#getplanShop_keyWord#0" />
+            <element signature="n#!!block;n#add_shop_keyWordDom#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="117" column="8" selection-start-line="117" selection-start-column="8" selection-end-line="117" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/vueTest/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="168" column="28" selection-start-line="168" selection-start-column="24" selection-end-line="168" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/vueTest/components/layOut.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/tbTrade/tbTrade.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+          <folding>
+            <element signature="e#12194#12718#0" />
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+            <element signature="e#12794#12823#0" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/js/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="348" selection-start-line="348" selection-end-line="352" selection-end-column="3" />
+          <folding>
+            <element signature="e#21#78#0" expanded="true" />
+            <element signature="n#!!block;n#saveSiteInfo#0" />
+            <element signature="n#!!block;n#newEstsDom#0" />
+            <element signature="n#!!block;n#newlever#0" />
+            <element signature="e#10633#10740#0" />
+            <element signature="n#!!block;n#checkLoginCode#0" />
+            <element signature="n#!!block;n#userInfoRes#0" />
+            <element signature="n#!!block;n#setIntRefreshToken#0" />
+            <element signature="n#!!block;n#getSearchPara#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/vueTest/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="65" column="11" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+          <folding>
+            <element signature="e#99#139#0" expanded="true" />
+            <element signature="e#770#1716#0" />
+            <element signature="e#526#1069#0" />
+            <element signature="e#2746#2787#0" />
+            <element signature="e#4390#5763#0" />
+            <element signature="e#5849#6318#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
