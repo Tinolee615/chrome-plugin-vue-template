@@ -1,5 +1,6 @@
 {{#unless downloadTest}}
-src/plugins/test
+src/plugins/test/index.js
+src\plugins\test\App.vue
 {{/unless}}
 
 # 最终生成的项目中不需要ignore文字自身
