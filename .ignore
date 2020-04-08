@@ -1,6 +1,0 @@
-{{#unless downloadTest}}
-src/plugins/test/index.js
-src/plugins/test/App.vue
-{{/unless}}
-
-templates.ignore
